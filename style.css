@@ -1,0 +1,15 @@
+/*
+ * This is the separate CSS file.
+ * The styles here will be applied to the HTML file you linked above.
+ */
+body {
+    background-color: #b6cad4; /* A light blue color */
+    color: #333; /* Dark gray for text */
+    font-family: sans-serif; /* A clean, easy-to-read font */
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #1a4f72; /* A darker blue for headings */
+}
